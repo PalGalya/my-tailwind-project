@@ -39,3 +39,9 @@
 2. Встановити залежності: `yarn` або `npm install`
 3. Запустити режим розробки: `yarn dev` або `npm run dev`
 4. Відкрити в браузері: http://localhost:5173
+
+## Перегляд збірки
+
+1. Зібрати проєкт: `yarn build` або `npm run build`
+2. Запустити режим перегляду: `yarn preview` або `npm run preview`
+3. Відкрити в браузері: http://localhost:4173
