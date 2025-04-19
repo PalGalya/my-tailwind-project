@@ -31,7 +31,7 @@
 
 ## Перегляд проєкту
 
-Ви можете переглянути розгорнуту версію проєкту за посиланням: [Мій проєкт на Vercel](https://vercel.com/sign-in-with-githubs-projects/my-tailwind-project)
+Ви можете переглянути розгорнуту версію проєкту за посиланням: [Мій проєкт на Vercel](https://my-tailwind-project-puce.vercel.app)
 
 ## Локальний запуск
 
